@@ -1,0 +1,5 @@
+
+/*---------------Lime Stylesheet-------------------------*/
+/*---------------------------------------------------------*/
+
+a.visbutton, .articleexcerpt .cattop, .nav li a:hover, .nav li a:active, .nav li.current-menu-parent a, .nav li.current-menu-item a, .flex-caption .mycat,.featart_col .articletitle, .claim, .imagewrap .catwrap, .newsletterform .submitbutton     {  background:#d2fb10; } .topheader li a:hover, .captionarea1 span.bigbonus, .bonusleft1, .moreinfotable h3, #mobile-menu a:hover   {	color:#d2fb10;} .topreview_col1 .logoarea {border-color:#d2fb10;} .pagination span,  .pagination a { color:#d2fb10; background: #fff; }  .pagination a:hover {color:#fff!important;background: #d2fb10;} .pagination .current {background: #d2fb10; color: #fff;} .pagination a.last { background:#999; color:#FFF;} .pagination a.last:hover { background:#333; color:#FFF;}  div.reply a.comment-reply-link,  div.reply a.comment-reply-link:visited { background:#d2fb10; } div.reply a.comment-reply-link:hover {background:#999; }#commentform #submit{background:#d2fb10;}#commentform #submit:hover{background:#999;}	

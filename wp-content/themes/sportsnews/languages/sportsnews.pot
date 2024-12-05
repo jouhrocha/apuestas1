@@ -1,0 +1,1774 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flytonic WP Sports\n"
+"POT-Creation-Date: 2017-06-05 09:52-0500\n"
+"PO-Revision-Date: 2017-06-05 09:52-0500\n"
+"Last-Translator: \n"
+"Language-Team: Flytonic\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:14
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"Page not found or has been removed.  Please browse one of our other pages. "
+"Search our site below"
+msgstr ""
+
+#: archive.php:19
+msgid "Posts Tagged:"
+msgstr ""
+
+#: archive.php:22 archive.php:25 archive.php:28
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:31
+msgid "Search Results"
+msgstr ""
+
+#: archive.php:34
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#: breadcrumbs.php:108 includes/breadcrumbs.php:108
+msgid "Page"
+msgstr ""
+
+#: comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:61
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:63
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:64
+msgid "Submit"
+msgstr ""
+
+#: comments.php:74 includes/widgets/topsites_widget.php:209
+#: single-fantasy.php:126
+msgid "Name"
+msgstr ""
+
+#: comments.php:80
+msgid "Email"
+msgstr ""
+
+#: comments.php:86
+msgid "Website"
+msgstr ""
+
+#: content-meta.php:8
+msgid "by"
+msgstr ""
+
+#: content-meta2.php:4 content-meta3.php:4
+msgid "By"
+msgstr ""
+
+#: footer.php:44
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:44
+msgid "All Rights Reserved"
+msgstr ""
+
+#: header.php:67 header.php:68 searchform.php:10 searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: header.php:186
+msgid "Breaking News\t"
+msgstr ""
+
+#: header.php:189 header.php:190
+msgid "more"
+msgstr ""
+
+#: includes/banner-manager.php:145 includes/banner-manager.php:495
+msgid "Banner Manager"
+msgstr ""
+
+#: includes/banner-manager.php:229
+msgid "Create Banner in"
+msgstr ""
+
+#: includes/banner-manager.php:232 includes/banner-manager.php:334
+#: includes/banner-manager.php:519 includes/banner-manager.php:530
+#: includes/hitcounter.php:88 includes/hitcounter.php:96
+#: includes/widgets/topsites_widget.php:196
+msgid "Title"
+msgstr ""
+
+#: includes/banner-manager.php:234 includes/banner-manager.php:336
+msgid "A name for the banner so you can quickly identify banners later"
+msgstr ""
+
+#: includes/banner-manager.php:237 includes/banner-manager.php:339
+msgid "Simple Banner"
+msgstr ""
+
+#: includes/banner-manager.php:241 includes/banner-manager.php:343
+msgid "Image"
+msgstr ""
+
+#: includes/banner-manager.php:243 includes/custom_meta_boxes.php:232
+msgid "Choose Image"
+msgstr ""
+
+#: includes/banner-manager.php:244
+msgid "Clear Field"
+msgstr ""
+
+#: includes/banner-manager.php:245 includes/banner-manager.php:347
+msgid "Upload an image to use as your banner"
+msgstr ""
+
+#: includes/banner-manager.php:248 includes/banner-manager.php:350
+msgid "Link"
+msgstr ""
+
+#: includes/banner-manager.php:250 includes/banner-manager.php:352
+msgid "Enter the URL the banner should link to"
+msgstr ""
+
+#: includes/banner-manager.php:253 includes/banner-manager.php:355
+msgid "Alt Text"
+msgstr ""
+
+#: includes/banner-manager.php:255 includes/banner-manager.php:357
+msgid "Alt text to be used on the link and image"
+msgstr ""
+
+#: includes/banner-manager.php:259 includes/banner-manager.php:361
+msgid "HTML Banner"
+msgstr ""
+
+#: includes/banner-manager.php:263 includes/banner-manager.php:365
+msgid "Banner HTML"
+msgstr ""
+
+#: includes/banner-manager.php:265 includes/banner-manager.php:367
+msgid "Paste HTML code from a banner exchange or affiliate program"
+msgstr ""
+
+#: includes/banner-manager.php:269
+msgid "Create Banner"
+msgstr ""
+
+#: includes/banner-manager.php:270 includes/banner-manager.php:372
+msgid "Cancel"
+msgstr ""
+
+#: includes/banner-manager.php:331
+msgid "Edit Banner"
+msgstr ""
+
+#: includes/banner-manager.php:371
+msgid "Save Banner"
+msgstr ""
+
+#: includes/banner-manager.php:499
+msgid "Create a group"
+msgstr ""
+
+#: includes/banner-manager.php:500
+msgid ""
+"An ad group contains one or more advertisements to be displayed on your site "
+"in a particular location. To create a new group begin by typing a name below "
+"and pressing \"create\""
+msgstr ""
+
+#: includes/banner-manager.php:502
+msgid "Group Title:"
+msgstr ""
+
+#: includes/banner-manager.php:507
+msgid ""
+"Each group can contain one or more advertisements. Advertisements will be "
+"selected randomly from the group, and you may selectively disable individual "
+"advertisements to stop them from appearing temporarily."
+msgstr ""
+
+#: includes/banner-manager.php:513
+msgid "Template Tag:"
+msgstr ""
+
+#: includes/banner-manager.php:518 includes/banner-manager.php:529
+msgid "Active"
+msgstr ""
+
+#: includes/banner-manager.php:520 includes/banner-manager.php:531
+msgid "Type"
+msgstr ""
+
+#: includes/banner-manager.php:521 includes/banner-manager.php:532
+#: includes/hitcounter.php:35 includes/hitcounter.php:89
+#: includes/hitcounter.php:97 includes/redirects.php:181
+msgid "Hits"
+msgstr ""
+
+#: includes/banner-manager.php:522 includes/banner-manager.php:533
+#: includes/redirects.php:238
+msgid "Key"
+msgstr ""
+
+#: includes/banner-manager.php:523 includes/banner-manager.php:534
+#: includes/redirects.php:182
+msgid "Actions"
+msgstr ""
+
+#: includes/banner-manager.php:550 includes/hitcounter.php:108
+#: includes/redirects.php:201
+msgid "Edit"
+msgstr ""
+
+#: includes/banner-manager.php:551 includes/redirects.php:202
+msgid "Delete"
+msgstr ""
+
+#: includes/banner-manager.php:553
+msgid "Deactivate"
+msgstr ""
+
+#: includes/banner-manager.php:555
+msgid "Activate"
+msgstr ""
+
+#: includes/banner-manager.php:557 includes/redirects.php:203
+msgid "Reset Hits"
+msgstr ""
+
+#: includes/banner-manager.php:563
+msgid "Create new banner"
+msgstr ""
+
+#: includes/banner-manager.php:647
+msgid "BannerAd"
+msgstr ""
+
+#: includes/banner-manager.php:648
+msgid "Display banner in widgets"
+msgstr ""
+
+#: includes/banner-manager.php:693
+msgid "Title (Optional):"
+msgstr ""
+
+#: includes/banner-manager.php:697
+msgid "Group:"
+msgstr ""
+
+#: includes/banner-manager.php:705
+msgid "Banner Title:"
+msgstr ""
+
+#: includes/banner-manager.php:707
+msgid "Random"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:16
+msgid "Fantasy Sites"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:17
+msgid "Fantasy Site"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:18 includes/custom_meta_boxes.php:19
+msgid "Add New Fantasy Site"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:20 includes/custom_meta_boxes.php:21
+msgid "Edit Fantasy Site"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:22
+msgid "New Fantasy Site"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:23 includes/custom_meta_boxes.php:24
+msgid "View Fantasy Site"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:25
+msgid "Search Fantasy Sites"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:26
+msgid "No Fantasy Sites found"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:27
+msgid "No Fantasy Sites found in Trash"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:28
+msgid "Parent Fantasy Site"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:43 includes/custom_meta_boxes.php:53
+msgid "Fantasy Tags"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:44
+msgid "Fantasy tag"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:45
+msgid "Search Fantasy Tags"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:46
+msgid "All Fantasy Tags"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:47
+msgid "Parent Fantasy Tag"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:48
+msgid "Parent Fantasy Tag:"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:49
+msgid "Edit Fantasy Tag"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:50
+msgid "Update Fantasy Tag"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:51
+msgid "Add New Fantasy Tag"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:52
+msgid "New Fantasy Tag"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:107
+msgid "Fantasy Site Properties"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:108
+msgid "Blog Page Options"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:202
+msgid "Site Affiliate URL"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:203
+msgid "The referral url from the affiliate program"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:214 includes/redirects.php:179
+msgid "Redirect Key"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:215
+msgid ""
+"This is just a word to hide the full affiliate url that you create.  So the "
+"new url would be to visit the site would"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:226
+msgid "Screenshot URL (480px x 300px or bigger)"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:227
+msgid "The screenshot of the website to be shown on the review page"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:239
+msgid "Established Date"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:251
+msgid "Website Display URL"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:252
+msgid "This is the display URL in the format of www.domain.com"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:263 single-fantasy.php:144
+msgid "Location"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:274
+msgid "Minimum Deposit (with currency)"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:287
+msgid "Main Signup Bonus Code"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:298
+msgid "Max Bonus Amount (with currency)"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:311
+msgid "Bonus Headline"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:312
+msgid ""
+"This is the bonus information displayed in the widgets and review.  Include "
+"text and numbers..etc"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:323
+msgid "Pros, separate each by |"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:333
+msgid "Cons, separate each by |"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:344
+msgid "Site Editor Rating"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:345
+msgid "Select the rating to be show to visitors"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:363
+msgid "Optional Custom Fields to Add to Review Table"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:368
+msgid "Custom Field Headline 1"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:370
+msgid ""
+"This is a custom field you can add on the review page template 2.  Please "
+"enter the value below."
+msgstr ""
+
+#: includes/custom_meta_boxes.php:381
+msgid "Custom Field 1"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:394
+msgid "Custom Field Headline 2"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:406
+msgid "Custom Field 2"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:418
+msgid "Custom Field Headline 3"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:430
+msgid "Custom Field 3"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:442
+msgid "Custom Field Headline 4"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:454
+msgid "Custom Field 4"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:466
+msgid "Custom Field Headline 5"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:479
+msgid "Custom Field 5"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:492
+msgid "Custom Rating Field 1"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:505
+msgid "Custom Rating Value 1"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:522
+msgid "Custom Rating Field 2"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:534
+msgid "Custom Rating Value 2"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:551
+msgid "Custom Rating Field 3"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:563 includes/custom_meta_boxes.php:592
+msgid "Custom Rating Value 3"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:580
+msgid "Custom Rating Field 4"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:609
+msgid "Custom Rating Field 5"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:621
+msgid "Custom Rating Value 5"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:638
+msgid "Custom Rating Field 6"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:650
+msgid "Custom Rating Value 6"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:746
+msgid "Show Excerpts Instead of Full Posts"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:752
+msgid "Select"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:753
+msgid "Yes"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:754
+msgid "No"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:765
+msgid "Show Posts From This Cat Only"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:766
+msgid "Choose to only show posts from this category"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:771 includes/listings_meta_boxes.php:181
+#: includes/listings_meta_boxes.php:332
+msgid "All"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:783
+msgid "Number of Posts To Show"
+msgstr ""
+
+#: includes/custom_meta_boxes.php:784
+msgid "Enter a number here"
+msgstr ""
+
+#: includes/design-options.php:16
+msgid "Replace Gold Color"
+msgstr ""
+
+#: includes/design-options.php:17
+msgid "Replace Dark Text Color in Front of Gold Color"
+msgstr ""
+
+#: includes/design-options.php:23
+msgid "General Body and Sidebar Link Color"
+msgstr ""
+
+#: includes/design-options.php:23
+msgid "Change blue link color"
+msgstr ""
+
+#: includes/design-options.php:24
+msgid "General Body and Sidebar Link Hover Color"
+msgstr ""
+
+#: includes/design-options.php:30
+msgid "Gold Button Color"
+msgstr ""
+
+#: includes/design-options.php:31
+msgid "Gold Button Text Color"
+msgstr ""
+
+#: includes/design-options.php:38 includes/shortcodes/buttons-sc-window.php:76
+msgid "Background Color"
+msgstr ""
+
+#: includes/design-options.php:38
+msgid ""
+"The background color of the body when using the boxed style in theme options "
+"area"
+msgstr ""
+
+#: includes/design-options.php:39
+msgid "Background Image"
+msgstr ""
+
+#: includes/design-options.php:39
+msgid ""
+"The background image of the body when using the boxed style in theme options "
+"area"
+msgstr ""
+
+#: includes/design-options.php:40
+msgid "Background Image Repeat"
+msgstr ""
+
+#: includes/design-options.php:40
+msgid "Should the background image repeat"
+msgstr ""
+
+#: includes/design-options.php:48
+msgid "Heading H1 Font Family"
+msgstr ""
+
+#: includes/design-options.php:48 includes/design-options.php:52
+msgid "The font type for the H1 headings"
+msgstr ""
+
+#: includes/design-options.php:50
+msgid "Heading H1 Font Size"
+msgstr ""
+
+#: includes/design-options.php:50 includes/design-options.php:54
+msgid "The size of the H1 heading text"
+msgstr ""
+
+#: includes/design-options.php:52
+msgid "Heading H2 Font Family"
+msgstr ""
+
+#: includes/design-options.php:54
+msgid "Heading H2 Font Size"
+msgstr ""
+
+#: includes/design-options.php:56
+msgid "Heading H3 Font Family"
+msgstr ""
+
+#: includes/design-options.php:56
+msgid "The font type for the H3 headings"
+msgstr ""
+
+#: includes/design-options.php:58
+msgid "Heading H3 Font Size"
+msgstr ""
+
+#: includes/design-options.php:58
+msgid "The size of the H3 heading text"
+msgstr ""
+
+#: includes/design-options.php:60
+msgid "Sidebar Widget Heading Font Family"
+msgstr ""
+
+#: includes/design-options.php:60
+msgid "The font type for the sidebar widget headings"
+msgstr ""
+
+#: includes/design-options.php:62
+msgid "Sidebar Widget Heading Font Size"
+msgstr ""
+
+#: includes/design-options.php:62
+msgid "The size of the sidebar widget heading text"
+msgstr ""
+
+#: includes/design-options.php:67
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/design-options.php:67
+msgid "Custom CSS to be inserted into the site.  Proceed styles by .custom"
+msgstr ""
+
+#: includes/design-options.php:113
+msgid "Design Options"
+msgstr ""
+
+#: includes/design-options.php:205
+msgid "Edit Theme Style"
+msgstr ""
+
+#: includes/design-options.php:206
+msgid ""
+"Choose to alter the design and look of your theme.  All css will be saved to "
+"your custom.css file in the includes folder."
+msgstr ""
+
+#: includes/design-options.php:268 includes/layout-options.php:135
+#: includes/redirects.php:212 includes/theme-options.php:232
+msgid "Save Changes"
+msgstr ""
+
+#: includes/design-options.php:269 includes/layout-options.php:137
+#: includes/theme-options.php:233
+msgid "Reset to Default"
+msgstr ""
+
+#: includes/hitcounter.php:52
+msgid "Hit Statistics"
+msgstr ""
+
+#: includes/hitcounter.php:60
+msgid "Outbound Fantasy Link Hits"
+msgstr ""
+
+#: includes/hitcounter.php:90 includes/hitcounter.php:98
+msgid "Reset?"
+msgstr ""
+
+#: includes/hitcounter.php:109
+msgid "View"
+msgstr ""
+
+#: includes/hitcounter.php:113
+msgid "Clear"
+msgstr ""
+
+#: includes/hitcounter.php:121
+msgid "Clear ALL Hit Counts"
+msgstr ""
+
+#: includes/layout-options.php:46
+msgid "Layout Options"
+msgstr ""
+
+#: includes/layout-options.php:122
+msgid "Select Sidebar Layout Options"
+msgstr ""
+
+#: includes/layout-options.php:124
+msgid "Select a layout type"
+msgstr ""
+
+#: includes/layout-options.php:127
+msgid "Content - Sidebar"
+msgstr ""
+
+#: includes/layout-options.php:128
+msgid "Sidebar - Content"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:62
+msgid "Top Slider Section"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:65
+msgid "Hide Top Slider"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:66
+msgid "Check to hide slider on top of page."
+msgstr ""
+
+#: includes/listings_meta_boxes.php:75
+msgid "Show Most Recent Posts?"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:76
+msgid ""
+"Check to show most recent post by category below or pick each post/page "
+"individually"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:88
+msgid "First Slide to Show as Featured Post (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:89
+msgid ""
+"Select first post to show as Featured Post if recent posts is not checked"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:95 includes/listings_meta_boxes.php:113
+#: includes/listings_meta_boxes.php:132 includes/listings_meta_boxes.php:150
+#: includes/listings_meta_boxes.php:208 includes/listings_meta_boxes.php:224
+#: includes/listings_meta_boxes.php:240 includes/listings_meta_boxes.php:256
+#: includes/listings_meta_boxes.php:272 includes/listings_meta_boxes.php:288
+msgid "Select..."
+msgstr ""
+
+#: includes/listings_meta_boxes.php:106
+msgid "Second Slide to Show as Featured Post (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:107
+msgid ""
+"Select second post to show as Featured Post if recent posts is not checked"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:125
+msgid "Third Slide to Show as Featured Post (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:126
+msgid ""
+"Select third post to show as Featured Post if recent posts is not checked"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:143
+msgid "Fourth Slide to Show as Featured Post (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:144
+msgid ""
+"Select fourth post to show as Featured Post if recent posts is not checked"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:161
+msgid "Number of Slider Posts to Show if Recent Only:"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:175
+msgid "Show Posts From This Category Only (Optional):"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:176
+msgid "Filter posts by category"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:189
+msgid "Featured Articles Section"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:193
+msgid "Disable Featured Articles Section?"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:194
+msgid "Check to hide this section."
+msgstr ""
+
+#: includes/listings_meta_boxes.php:203
+msgid "First featured article"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:219
+msgid "Second featured article (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:235
+msgid "Third featured article (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:251
+msgid "Fourth featured article (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:267
+msgid "Fifth featured article (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:283
+msgid "Sixth featured article (Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:297
+msgid "Recent News Section"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:301
+msgid "Title of This Section"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:302
+msgid "Default title is Latest articles"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:313
+msgid "Hide Recent Articles Section"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:314
+msgid "Check to hide this section"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:323
+msgid "Filter By Category of News(Optional)"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:324
+msgid "Filter the recent news by category"
+msgstr ""
+
+#: includes/listings_meta_boxes.php:342
+msgid "Show how many news stories:"
+msgstr ""
+
+#: includes/options.lib.php:12 includes/shortcodes/btable-sc-window.php:60
+msgid "None"
+msgstr ""
+
+#: includes/options.lib.php:21
+msgid "DEFAULT"
+msgstr ""
+
+#: includes/redirects.php:107
+msgid "Redirect Options"
+msgstr ""
+
+#: includes/redirects.php:171
+msgid "Custom Redirects"
+msgstr ""
+
+#: includes/redirects.php:180
+msgid "Url"
+msgstr ""
+
+#: includes/redirects.php:189
+msgid "No custom redirects"
+msgstr ""
+
+#: includes/redirects.php:225
+msgid "Create a custom redirect"
+msgstr ""
+
+#: includes/redirects.php:240
+msgid "URL"
+msgstr ""
+
+#: includes/redirects.php:242
+msgid "Create Redirect"
+msgstr ""
+
+#: includes/shortcodes/boxes-sc-window.php:30
+#: includes/shortcodes/buttons-sc-window.php:51
+msgid "Icon"
+msgstr ""
+
+#: includes/shortcodes/boxes-sc-window.php:32
+msgid "Info Box"
+msgstr ""
+
+#: includes/shortcodes/boxes-sc-window.php:33
+msgid "Check Box"
+msgstr ""
+
+#: includes/shortcodes/boxes-sc-window.php:34
+msgid "Download Box"
+msgstr ""
+
+#: includes/shortcodes/boxes-sc-window.php:35
+msgid "Error Box"
+msgstr ""
+
+#: includes/shortcodes/boxes-sc-window.php:36
+msgid "Alert Box"
+msgstr ""
+
+#: includes/shortcodes/boxes-sc-window.php:42
+msgid "Alert Box Text"
+msgstr ""
+
+#: includes/shortcodes/boxes-sc-window.php:44
+msgid "Enter text here or within the post itself"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:24
+msgid "Top Fantasy Sports Sites"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:29
+msgid "Number of sites"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:31
+msgid "Enter number of sites to display"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:36
+msgid "Order By"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:38
+#: includes/shortcodes/btable-sc-window.php:49
+msgid "Default"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:39
+msgid "Site Name"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:40
+#: includes/widgets/topsites_widget.php:210
+msgid "Menu Order"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:41
+msgid "Date"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:42
+#: includes/widgets/topsites_widget.php:211
+msgid "Rating"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:47
+msgid "Sort Order"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:50
+msgid "Ascending"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:51
+msgid "Descending"
+msgstr ""
+
+#: includes/shortcodes/btable-sc-window.php:58
+#: includes/widgets/topsites_widget.php:217
+msgid "Filter by Tag"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:27
+msgid "Button Text"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:29
+msgid "Enter Button Text"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:33
+msgid "Button URL"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:35
+msgid "Enter Button URL"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:39
+msgid "Size of Button"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:41
+msgid "Regular"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:42
+msgid "Small"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:43
+msgid "Medium"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:44
+msgid "Large"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:53
+msgid "None (Default)"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:54
+msgid "Down Arrow"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:55
+msgid "Info"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:56
+msgid "Error"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:57
+msgid "Check"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:58
+msgid "Warning"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:65
+msgid "Text Color"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:67
+msgid "Light"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:68
+msgid "Dark"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:78
+msgid "Normal"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:88
+msgid "Custom"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:96
+msgid "Custom Background Color"
+msgstr ""
+
+#: includes/shortcodes/buttons-sc-window.php:98
+msgid "Select or enter a custom background color for the button"
+msgstr ""
+
+#: includes/shortcodes/excerpt-sc-window.php:30
+msgid "Number of Posts (3=Default)"
+msgstr ""
+
+#: includes/shortcodes/excerpt-sc-window.php:36
+msgid "Show only titles"
+msgstr ""
+
+#: includes/shortcodes/excerpt-sc-window.php:38
+msgid "Check the box if you want to show posts as a list with titles only."
+msgstr ""
+
+#: includes/shortcodes/excerpt-sc-window.php:42
+msgid "Filter by Category"
+msgstr ""
+
+#: includes/shortcodes/excerpt-sc-window.php:44
+msgid "[None]"
+msgstr ""
+
+#: includes/shortcodes/excerpt-sc-window.php:49
+msgid "You can choose to show posts within a certain category."
+msgstr ""
+
+#: includes/theme-options.php:7
+msgid "Logo"
+msgstr ""
+
+#: includes/theme-options.php:7
+msgid ""
+"The logo for your site.  Recommended size is less than 300px wide and 100px "
+"in height."
+msgstr ""
+
+#: includes/theme-options.php:8
+msgid "Favicon URL"
+msgstr ""
+
+#: includes/theme-options.php:8
+msgid "Enter the full url for your custom favicon."
+msgstr ""
+
+#: includes/theme-options.php:9
+msgid "Login Logo"
+msgstr ""
+
+#: includes/theme-options.php:9
+msgid "The logo that is shown on the login page.  Recommended size less than"
+msgstr ""
+
+#: includes/theme-options.php:10
+msgid "Login Logo URL"
+msgstr ""
+
+#: includes/theme-options.php:10
+msgid ""
+"The link url for the logo image.  Where the user goes when they click on the "
+"login logo."
+msgstr ""
+
+#: includes/theme-options.php:11
+msgid "Login Logo Title"
+msgstr ""
+
+#: includes/theme-options.php:11
+msgid "The alternative text for the logo on login page."
+msgstr ""
+
+#: includes/theme-options.php:16
+msgid "Header script"
+msgstr ""
+
+#: includes/theme-options.php:16
+msgid ""
+"Additional information to insert in the page header file like Google "
+"Analytics code"
+msgstr ""
+
+#: includes/theme-options.php:17
+msgid "Disable Top Navigation Bar"
+msgstr ""
+
+#: includes/theme-options.php:17
+msgid "Check to disable top navigation bar in theme"
+msgstr ""
+
+#: includes/theme-options.php:18
+msgid "Disable search"
+msgstr ""
+
+#: includes/theme-options.php:18
+msgid "Check to disable searchbox in navigation bar"
+msgstr ""
+
+#: includes/theme-options.php:20
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/theme-options.php:20
+msgid ""
+"Enter url to link Facebook icon to. Leaving this blank will hide the icon"
+msgstr ""
+
+#: includes/theme-options.php:21
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/theme-options.php:21
+msgid ""
+"Enter url to link Twitter icon to. Leaving this blank will hide the icon"
+msgstr ""
+
+#: includes/theme-options.php:22
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/theme-options.php:22
+msgid ""
+"Enter url to link Google plus icon to. Leaving this blank will hide the icon."
+msgstr ""
+
+#: includes/theme-options.php:23
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/theme-options.php:23
+msgid ""
+"Enter url to link Pinterest icon to. Leaving this blank will hide the icon."
+msgstr ""
+
+#: includes/theme-options.php:24
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/theme-options.php:24
+msgid ""
+"Enter url to link Instagram icon to. Leaving this blank will hide the icon."
+msgstr ""
+
+#: includes/theme-options.php:25
+msgid "Contact URL"
+msgstr ""
+
+#: includes/theme-options.php:25
+msgid ""
+"Enter url to link contact envelope icon to. Leaving this blank will hide the "
+"icon."
+msgstr ""
+
+#: includes/theme-options.php:31
+msgid "Show Breaking News Section"
+msgstr ""
+
+#: includes/theme-options.php:31
+msgid "Check to enable the breaking news section at the top"
+msgstr ""
+
+#: includes/theme-options.php:32
+msgid "Breaking News Text"
+msgstr ""
+
+#: includes/theme-options.php:32
+msgid "Enter text for breadking news."
+msgstr ""
+
+#: includes/theme-options.php:33
+msgid "Breaking News Url"
+msgstr ""
+
+#: includes/theme-options.php:33
+msgid "Enter url for more link"
+msgstr ""
+
+#: includes/theme-options.php:34
+msgid "Breaking News Url Text"
+msgstr ""
+
+#: includes/theme-options.php:34
+msgid "Enter text for the link instead of more"
+msgstr ""
+
+#: includes/theme-options.php:42
+msgid "Theme Color"
+msgstr ""
+
+#: includes/theme-options.php:42
+msgid "Choose a preset theme design style other than default."
+msgstr ""
+
+#: includes/theme-options.php:43
+msgid "Article Thumbnail"
+msgstr ""
+
+#: includes/theme-options.php:43
+msgid "The default article thumbnail if one is not set (100x100)"
+msgstr ""
+
+#: includes/theme-options.php:44
+msgid "Fantasy Review Page Slug"
+msgstr ""
+
+#: includes/theme-options.php:44
+msgid ""
+"The fantasy sports review site slug, default is review.  Example - http://"
+"www.yoursite.com/slug/fsports/.  You will need to reset your permalinks by "
+"resaving them if you change this, otherwise you will see a 404 page."
+msgstr ""
+
+#: includes/theme-options.php:49
+msgid "Hide Entire Bylines"
+msgstr ""
+
+#: includes/theme-options.php:49
+msgid ""
+"Check to hide all bylines including post date, category, author and comments "
+"from all areas."
+msgstr ""
+
+#: includes/theme-options.php:50
+msgid "Hide Date"
+msgstr ""
+
+#: includes/theme-options.php:51
+msgid "Hide Category"
+msgstr ""
+
+#: includes/theme-options.php:52
+msgid "Hide Views"
+msgstr ""
+
+#: includes/theme-options.php:53
+msgid "Hide Comments Link"
+msgstr ""
+
+#: includes/theme-options.php:53
+msgid "Check to hide comments link and comments number in bylines."
+msgstr ""
+
+#: includes/theme-options.php:57
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: includes/theme-options.php:58
+msgid "Hide breadcrumbs from pages"
+msgstr ""
+
+#: includes/theme-options.php:59
+msgid "Hide breadcrumbs from posts"
+msgstr ""
+
+#: includes/theme-options.php:60
+msgid "Hide breadcrumbs from home"
+msgstr ""
+
+#: includes/theme-options.php:61
+msgid "Hide breadcrumbs from 404 pages"
+msgstr ""
+
+#: includes/theme-options.php:62
+msgid "Hide breadcrumbs from archive pages"
+msgstr ""
+
+#: includes/theme-options.php:66
+msgid "Footer script"
+msgstr ""
+
+#: includes/theme-options.php:67
+msgid "Hide Top Footer Widget Area"
+msgstr ""
+
+#: includes/theme-options.php:68
+msgid "Hide Bottom Footer Area"
+msgstr ""
+
+#: includes/theme-options.php:69
+msgid "Hide theme credit"
+msgstr ""
+
+#: includes/theme-options.php:70
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/theme-options.php:70
+msgid "Enter copyright, theme credit, and site link in the footer."
+msgstr ""
+
+#: includes/theme-options.php:75
+msgid "Link Redirect Options"
+msgstr ""
+
+#: includes/theme-options.php:75
+msgid "Check to have affiliate redirect links open in new windows when clicked"
+msgstr ""
+
+#: includes/theme-options.php:76
+msgid "Banner Redirect Options"
+msgstr ""
+
+#: includes/theme-options.php:76
+msgid "Check to have banners open in new windows when clicked"
+msgstr ""
+
+#: includes/theme-options.php:77
+msgid "Outbound Redirect Slug"
+msgstr ""
+
+#: includes/theme-options.php:77
+msgid ""
+"Enter the outbound affiliate slug to replace \"outgoing\".  Use one word"
+msgstr ""
+
+#: includes/theme-options.php:82
+msgid "Excerpt length"
+msgstr ""
+
+#: includes/theme-options.php:92 includes/theme-options.php:164
+msgid "Theme Options"
+msgstr ""
+
+#: includes/theme-options.php:168
+msgid "update the different options of the themes here"
+msgstr ""
+
+#: includes/theme-setup.php:113
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/theme-setup.php:115
+msgid "Main Sidebar Area"
+msgstr ""
+
+#: includes/theme-setup.php:126
+msgid "Footer Widget 1"
+msgstr ""
+
+#: includes/theme-setup.php:128
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: includes/theme-setup.php:137
+msgid "Footer Widget 2"
+msgstr ""
+
+#: includes/theme-setup.php:139
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: includes/theme-setup.php:148
+msgid "Footer Widget 3"
+msgstr ""
+
+#: includes/theme-setup.php:150
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: includes/theme-setup.php:159
+msgid "Footer Widget 4"
+msgstr ""
+
+#: includes/theme-setup.php:161
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: includes/theme-setup.php:170
+msgid "Bottom Right Footer"
+msgstr ""
+
+#: includes/theme-setup.php:172
+msgid "Footer Bottom Right Widget Area"
+msgstr ""
+
+#: includes/theme-setup.php:182
+msgid "Header Widgets"
+msgstr ""
+
+#: includes/theme-setup.php:184
+msgid "Top Banner Widget Area"
+msgstr ""
+
+#: includes/theme-setup.php:217
+msgid "Primary Navigation"
+msgstr ""
+
+#: includes/theme-setup.php:218
+msgid "Top Menu"
+msgstr ""
+
+#: includes/theme-setup.php:224
+msgid "Please Set Up Your Menu"
+msgstr ""
+
+#: includes/theme-setup.php:349
+msgid "Previous"
+msgstr ""
+
+#: includes/theme-setup.php:359
+msgid "Next"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:15
+msgid "Recent Post and Thumbnails by Category"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:16
+msgid "Display recent posts with thumbnail by category."
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:148
+#: includes/widgets/feedburner_widget.php:104
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:153
+msgid "Number of Posts to Show"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:158
+msgid "Filter By Category (Optional)"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:163
+msgid "Show All"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:171
+msgid "Filter By Tag (Optional)"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:184
+msgid "Image Align Left or Right"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:188
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:189
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/cat_posts_widget.php:195
+msgid "Show alternate version with big first thumbnail"
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:15
+msgid "Feedburner Newsletter Signup"
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:16
+msgid "Add a feedburner signup form to widget area."
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:109
+msgid "Feedburner User:"
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:114
+msgid "Email Label:"
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:119
+msgid "Submit Label:"
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:124
+msgid "Image (Optional):"
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:126
+msgid "To be placed under the title to the right - size 80x80px."
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:129
+msgid "Text Above Email Input (Optional):"
+msgstr ""
+
+#: includes/widgets/feedburner_widget.php:134
+msgid "Check to show number of subscribers counter."
+msgstr ""
+
+#: includes/widgets/smedia_widget.php:15
+msgid "Social Media Icons"
+msgstr ""
+
+#: includes/widgets/smedia_widget.php:16
+msgid "Add social media icons to a widget area."
+msgstr ""
+
+#: includes/widgets/smedia_widget.php:135
+msgid ""
+"Enter the url for your social social media pages below that you would like "
+"to display in the widget below.  Leave blank to hide icon."
+msgstr ""
+
+#: includes/widgets/smedia_widget.php:139
+#: includes/widgets/smedia_widget.php:144
+#: includes/widgets/smedia_widget.php:149
+#: includes/widgets/smedia_widget.php:154
+#: includes/widgets/smedia_widget.php:159
+#: includes/widgets/smedia_widget.php:164
+#: includes/widgets/smedia_widget.php:169
+#: includes/widgets/smedia_widget.php:174
+#: includes/widgets/smedia_widget.php:179
+#: includes/widgets/smedia_widget.php:184
+#: includes/widgets/smedia_widget.php:189
+msgid "Page URL"
+msgstr ""
+
+#: includes/widgets/smedia_widget.php:195
+msgid "Widget Display Variation"
+msgstr ""
+
+#: includes/widgets/smedia_widget.php:206
+msgid "Check to open links in new window."
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:16
+msgid "Top Fantasy Sites Widget"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:17
+msgid "Fantasy Sports Site Listings Widget."
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:100
+msgid "Use Code"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:144
+msgid "Review"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:146 single-fantasy.php:64
+msgid "Visit Now"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:201
+msgid "Number of Fantasy Sites to Show"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:206
+msgid "Sort By"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:208
+msgid "Date (Newest)"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:230
+msgid "Link to Review Page Instead of Fantasy Site Directly"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:231
+msgid "Check to link details button to review page"
+msgstr ""
+
+#: includes/widgets/topsites_widget.php:235
+msgid "Show alternate version, displaying bonus code and site only"
+msgstr ""
+
+#: search.php:6
+msgid "Search Result For"
+msgstr ""
+
+#: search.php:6
+msgid "<span class=\"search-terms\">"
+msgstr ""
+
+#: search.php:6
+msgid "</span>"
+msgstr ""
+
+#: search.php:6
+msgid " &mdash; "
+msgstr ""
+
+#: search.php:26
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: single-fantasy.php:50
+msgid "Our Rating"
+msgstr ""
+
+#: single-fantasy.php:62 single-fantasy.php:114
+msgid "Use code"
+msgstr ""
+
+#: single-fantasy.php:76
+msgid "Pros"
+msgstr ""
+
+#: single-fantasy.php:88
+msgid "Cons"
+msgstr ""
+
+#: single-fantasy.php:117
+msgid "Claim Bonus Now"
+msgstr ""
+
+#: single-fantasy.php:123
+msgid "More Information"
+msgstr ""
+
+#: single-fantasy.php:132
+msgid "Website URL"
+msgstr ""
+
+#: single-fantasy.php:138
+msgid "Established"
+msgstr ""
+
+#: single-fantasy.php:151
+msgid "Minimum Deposit"
+msgstr ""
+
+#: single-fantasy.php:205
+msgid "Ratings"
+msgstr ""

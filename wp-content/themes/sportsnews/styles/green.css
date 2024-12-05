@@ -1,0 +1,5 @@
+
+/*---------------Green Stylesheet-------------------------*/
+/*---------------------------------------------------------*/
+
+a.visbutton, .articleexcerpt .cattop, .nav li a:hover, .nav li a:active, .nav li.current-menu-parent a, .nav li.current-menu-item a, .flex-caption .mycat,.featart_col .articletitle, .claim, .imagewrap .catwrap, .newsletterform .submitbutton     {  background:#034ba3; } .topheader li a:hover, .captionarea1 span.bigbonus, .bonusleft1, .moreinfotable h3, #mobile-menu a:hover   {	color:#034ba3;} .topreview_col1 .logoarea {border-color:#034ba3;} .pagination a:hover {background: #034ba3;} .pagination .current {background: #034ba3; }   div.reply a.comment-reply-link,  div.reply a.comment-reply-link:visited { background:#034ba3; } div.reply a.comment-reply-link:hover {background:#999; }#commentform #submit{background:#034ba3;}#commentform #submit:hover{background:#999;}	.nav li.current-menu-item a, .nav li.current-menu-parent a, .flex-caption .mycat, .featart_col .articletitle, .articleexcerpt .cattop a, a.visbutton, .claim a, .nav li a:hover, .pagination .current, .imagewrap .catwrap a {    color: #ffffff  !important;}	

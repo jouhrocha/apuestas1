@@ -1,0 +1,172 @@
+
+
+/* Flytonic Buttons */
+a.flybutton{
+    background:#013e7d; /* for non-css3 browsers */
+ 	color:#FFF !important;
+ 	line-height:1em;
+ 	padding:9px 11px 10px 11px;
+ 	text-align: center;
+	text-decoration: none !important;
+	text-transform:uppercase;
+	display: inline-block;
+	margin:0 .5em 1em .5em;
+	border:0;
+	font-weight:300;
+}
+
+a.flybutton.brown{
+	background:#432b2b;
+}
+
+a.flybutton.red {
+	background:#cc0000; 
+}
+
+a.flybutton.yellow {
+	background:#fbab10;
+}
+
+a.flybutton.green {
+	background:#4bcc0a;
+}
+
+a.flybutton.gray {
+	background:#eee;
+}
+
+a.flybutton.orange {
+	background:#F7931A;
+}
+
+a.flybutton.purple{
+	background:#831CE3;
+}
+
+a.flybutton.teal{
+	background:#06cfcf;
+}
+
+a.flybutton.black{
+	background:#252525;
+}
+
+a.flybutton.lg {  
+	font-size:1.4em; 
+	padding:13px 15px 14px 15px;
+}
+
+a.flybutton.sm { 
+	font-size:.9em;
+ 	padding:7px 9px 8px 9px;
+ }
+a.flybutton.med {
+	font-size:1.2em; 
+	padding:10px 12px 11px 12px;
+}
+
+a.flybutton.drk { 
+	color:#333 !important; 
+}
+
+a.flybutton.lgt { 
+	color:#fff !important; 
+}
+
+a.flybutton:hover, 
+a.flybutton:active, 
+a.flybutton:visited {
+	opacity: 0.85; 
+	box-shadow:none;
+}
+
+
+span.flyspan.darrow { 
+	background:url(images/downarrow.png) no-repeat left center transparent; 
+	padding-left:20px; 
+}
+
+
+span.flyspan.info { 
+	background:url(images/info.png) no-repeat left center transparent; 
+	padding-left:20px; 
+}
+
+
+span.flyspan.error { 
+	background:url(images/error.png) no-repeat left center transparent; 
+	padding-left:20px; 
+}
+
+span.flyspan.check { 
+	background:url(images/check.png) no-repeat left center transparent; 
+	padding-left:20px; 
+}
+
+span.flyspan.warning { 
+	background:url(images/warn.png) no-repeat left center transparent; 
+	padding-left:20px; 
+}
+
+/* Flytonic Boxes */
+
+.fly_box {
+	margin:0 .5em 1.6em .5em;
+	padding:10px 50px;
+	border-top:1px solid #e8e8e8;
+	border-bottom:1px solid #e8e8e8;
+}
+
+.fly_box.info {
+	background:#f8f8f8 url(images/info.png) no-repeat scroll 20px  45%;
+}
+
+.fly_box.alert {
+	background:#fbf5d9 url(images/warn.png) no-repeat scroll 20px  45%;
+	border-top:1px solid #eddd98;
+	border-bottom:1px solid #eddd98;
+}
+
+.fly_box.error {
+	background:#ffd8d2 url(images/error.png) no-repeat scroll 20px  45%;
+	border-top:1px solid #feaeaa;
+	border-bottom:1px solid #feaeaa;
+}
+
+.fly_box.download {
+	background:#f3ffdf url(images/downarrow.png) no-repeat scroll 20px  45%;
+	border-top:1px solid #d4eeaa;
+	border-bottom:1px solid #d4eeaa;
+}
+
+.fly_box.check {
+	background:#f8f8f8 url(images/check.png) no-repeat scroll 20px  45%;
+}
+
+
+/* Flytonic Columns */
+.one_half{ width:48.5%; }
+.one_third{ width:31.33%; }
+.two_third{ width:65.67%; }
+.one_fourth{ width:22.75%; }
+.three_fourth{ width:74.25%; }
+.one_fifth{ width:17.6%; }
+.two_fifth{ width:38.1%; }
+.three_fifth{ width:58.9%; }
+.four_fifth{ width:79.4%; }
+
+.one_half,.one_third,.two_third,.three_fourth,.one_fourth,.one_fifth,.two_fifth,.three_fifth,.four_fifth { position:relative; margin-right:3%; float:left;margin-bottom:15px; }
+.lastcolumn{ margin-right:0 !important; clear:right; }
+.clearboth {clear:both;display:block;font-size:0;height:0;line-height:0;width:100%; }
+.dropcap2 {
+  display: block;
+  float: left;
+  font-size: 40px;
+  line-height: 40px;
+  margin: 0 8px -5px 0;
+  color: #788794;
+}
+
+@media screen and (min-width: 1px) and (max-width:600px){
+    .one_half,.one_third,.two_third,.three_fourth,.one_fourth,.one_fifth,.two_fifth,.three_fifth,.four_fifth,.one_sixth,.five_sixth{ margin: 0; width: 100%; }
+}
